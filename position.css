@@ -1,0 +1,13 @@
+.relative{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    background-color: yellow;
+    /* position:relative; */
+    /* position:absolute; */
+    /* position:fixed; */
+    position:sticky; 
+
+    top:50px;
+   left: 100px;
+}

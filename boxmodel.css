@@ -1,0 +1,21 @@
+.container{
+    border: 2px solid red;
+    margin-top:500px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px;
+    /*line-height: 20px;
+    word-spacing: 20px;
+    letter-spacing: 10px; */
+    background-image: url("images/img2.jpg");
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+h2{
+    background-color: rgb(99, 111, 111);
+    padding: 10px;
+}
+p{
+    text-indent: 10px;
+    line-height: 40px;
+}
